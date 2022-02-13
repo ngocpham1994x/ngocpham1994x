@@ -14,7 +14,6 @@ Here are some ideas to get you started:!
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img border:none src="https://user-images.githubusercontent.com/3073676/153692759-177d2369-194b-4491-8a98-340cc3c88554.gif"></p>
 
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngocpham1994x&hide_border=true&count_private=true&show_icons=true&theme=default " alt="ngocpham1994x" align = "center"/>

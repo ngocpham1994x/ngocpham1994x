@@ -40,3 +40,7 @@ My name is <b>Ngoc Pham</b>.
 - 👯 I’m looking to collaborate on small technical/coding projects.
 - 💬 Ask me about instrumentation & industrial automation (PLC/DCS).
 - ⚡ Fun fact: when not in front of computer screen, I'd love camping and outdoor activities. I also like horror movies and I have dog named Mocha.
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->

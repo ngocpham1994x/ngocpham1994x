@@ -29,9 +29,9 @@ Here are some ideas to get you started:!
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ngocpham1994x&theme=default&hide_border=true" alt="ngocpham1994x" /></p>
 
 
-## Hi! :vulcan_salute:
+## Hi! 👋
 
-My name is <b>Ngoc Pham</b>. 
+My name is <b>Ngoc Pham</b>. I build and break stuff (I'm an Engineer).
 
 🚧 <b>Stuff I'm working on:</b>
 
@@ -41,6 +41,8 @@ My name is <b>Ngoc Pham</b>.
 - 💬 Ask me about instrumentation & industrial automation (PLC/DCS).
 - ⚡ Fun fact: when not in front of computer screen, I'd love camping and outdoor activities. I also like horror movies and I have dog named Mocha.
 
+---------------------------
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->

@@ -39,4 +39,4 @@ My name is <b>Ngoc Pham</b>.
 - 🌱 I’m currently learning HarvardX's [CS50](https://cs50.harvard.edu/x/2022/) while earning a Fullstack certification at [freecodecamp.org](https://www.freecodecamp.org/ngocpham1994x).
 - 👯 I’m looking to collaborate on small technical/coding projects.
 - 💬 Ask me about instrumentation & industrial automation (PLC/DCS).
-- ⚡ Fun fact: when not in front of computer screen, I'd love camping and outdoor activities. I also like horror movies.
+- ⚡ Fun fact: when not in front of computer screen, I'd love camping and outdoor activities. I also like horror movies and I have dog named Mocha.

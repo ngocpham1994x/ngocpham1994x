@@ -29,3 +29,14 @@ Here are some ideas to get you started:!
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ngocpham1994x&theme=default&hide_border=true" alt="ngocpham1994x" /></p>
 
 
+## Hi! :vulcan_salute:
+
+My name is <b>Ngoc Pham</b>. 
+
+🚧 <b>Stuff I'm working on:</b>
+
+- 🔭 I’m currently working on my Capstone Project for final year at University of Manitoba.
+- 🌱 I’m currently learning HarvardX's [CS50](https://cs50.harvard.edu/x/2022/) while earning a Fullstack certification at [freecodecamp.org](https://www.freecodecamp.org/ngocpham1994x).
+- 👯 I’m looking to collaborate on small technical/coding projects.
+- 💬 Ask me about instrumentation & industrial automation (PLC/DCS).
+- ⚡ Fun fact: when not in front of computer screen, I'd love camping and outdoor activities. I also like horror movies.

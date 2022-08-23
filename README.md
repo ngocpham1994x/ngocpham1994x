@@ -46,12 +46,8 @@ My name is <b>Ngoc Pham</b>. I build and break stuff (I'm an Engineer).
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 August 2022 - To: 22 August 2022
-
-Total Time: 1 min
-
-HTML   0 secs          >>>>>>>>>>>>>>>>---------   63.57 %
-CSS    0 secs          >>>>>>>>>----------------   36.43 %
+HTML   0 secs          ████████████████░░░░░░░░░   63.57 %
+CSS    0 secs          █████████░░░░░░░░░░░░░░░░   36.43 %
 ```
 
 <!--END_SECTION:waka-->

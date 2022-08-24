@@ -46,8 +46,10 @@ My name is <b>Ngoc Pham</b>. I build and break stuff (I'm an Engineer).
 <!--START_SECTION:waka-->
 
 ```text
-HTML   0 secs          ████████████████░░░░░░░░░   63.57 %
-CSS    0 secs          █████████░░░░░░░░░░░░░░░░   36.43 %
+HTML       1 hr 4 mins     ████████████████████░░░░░   79.61 %
+CSS        15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->

@@ -46,12 +46,12 @@ My name is <b>Ngoc Pham</b>. I build and break stuff (I'm an Engineer).
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 15 mins   █████████████████████░░░░   83.75 %
-Docker       24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-HTML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Python       1 hr 4 mins     ██████████████▒░░░░░░░░░░   56.90 %
+Docker       24 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
+HTML         15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+Bash         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->

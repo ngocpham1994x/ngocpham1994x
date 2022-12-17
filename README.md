@@ -21,7 +21,7 @@ Here are some ideas to get you started:!
 
 
 
-<p align="center"<a href="#"><img alt="Ngoc Pham Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ngocpham1994x&theme=minimal&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Ngoc Pham Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ngocpham1994x&theme=minimal&hide_border=true&" /></a></p>
 
 
 <p align="center"> <a href="https://github.com/ngocpham1994x"><img src="https://github-profile-trophy.vercel.app/?username=ngocpham1994x&no-frame=true&no-bg=true&title=MultiLanguage&title=Followers&title=Commits&title=Repositories&title=Stars&title=PullRequest" alt="ngocpham1994x" /></a> </p>
@@ -55,3 +55,5 @@ Docker       1 min           ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ngocpham1994x&label=Profile%20views&color=69c809&style=flat" alt="ngocpham1994x" /> </p>

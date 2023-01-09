@@ -46,12 +46,12 @@ My name is <b>Ngoc Pham</b>. I build and break stuff (I'm an Engineer).
 <!--START_SECTION:waka-->
 
 ```text
-TeX            3 hrs 47 mins   ███████████░░░░░░░░░░░░░░   44.64 %
-HTML           3 hrs 22 mins   ██████████░░░░░░░░░░░░░░░   39.74 %
-Python         1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-Markdown       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-OpenEdge ABL   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+HTML           1 hr 51 mins    ██████████████▒░░░░░░░░░░   57.70 %
+Python         47 mins         ██████░░░░░░░░░░░░░░░░░░░   24.60 %
+TeX            22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+Markdown       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+OpenEdge ABL   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Git Config     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->

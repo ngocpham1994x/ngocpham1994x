@@ -46,7 +46,8 @@ My name is <b>Ngoc Pham</b>. I build and break stuff (I'm an Engineer).
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   7 mins          ██████████████▓░░░░░░░░░░   58.28 %
+HTML         5 mins          ██████████▒░░░░░░░░░░░░░░   41.72 %
 ```
 
 <!--END_SECTION:waka-->

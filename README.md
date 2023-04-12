@@ -46,9 +46,7 @@ My name is <b>Ngoc Pham</b>. I build and break stuff (I'm an Engineer).
 <!--START_SECTION:waka-->
 
 ```text
-Python       55 mins         ███████████████████████▒░   93.36 %
-Text         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Python   45 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

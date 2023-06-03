@@ -45,7 +45,7 @@ My name is <b>Ngoc Pham</b>. I build and break stuff (I'm an Engineer).
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 

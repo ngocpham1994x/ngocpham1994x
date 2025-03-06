@@ -43,6 +43,8 @@ My name is <b>Ngoc Pham</b>. I build and break stuff (I'm an Engineer).
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
+<figure><embed src="https://wakatime.com/share/@a415f883-6098-411e-8849-9914ee03c40b/5bc4b73c-b0ab-4854-ad18-014df7893105.svg"></embed></figure>
+
 ```txt
 No activity tracked
 ```

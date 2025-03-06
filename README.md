@@ -20,9 +20,7 @@ Here are some ideas to get you started:!
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngocpham1994x&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vue" alt="ngocpham1994x" align = "center"/></p>
 
 
-
-<p align="center"<a href="#"><img alt="Ngoc Pham Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ngocpham1994x&theme=minimal&hide_border=true&" /></a></p>
-
+<p align="center"<a href="#"><img alt="Ngoc Pham Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ngocpham1994x&theme=github&hide_border=true" /></a></p>
 
 <p align="center"> <a href="https://github.com/ngocpham1994x"><img src="https://github-profile-trophy.vercel.app/?username=ngocpham1994x&no-frame=true&no-bg=true&title=MultiLanguage&title=Followers&title=Commits&title=Repositories&title=Stars&title=PullRequest" alt="ngocpham1994x" /></a> </p>
 

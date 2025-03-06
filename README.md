@@ -26,8 +26,9 @@ Here are some ideas to get you started:!
 
 <p align="center"> <a href="https://github.com/ngocpham1994x"><img src="https://github-profile-trophy.vercel.app/?username=ngocpham1994x&no-frame=true&no-bg=true&title=MultiLanguage&title=Followers&title=Commits&title=Repositories&title=Stars&title=PullRequest" alt="ngocpham1994x" /></a> </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ngocpham1994x&theme=default&hide_border=true" alt="ngocpham1994x" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ngocpham1994x)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ngocpham1994x&theme=default&hide_border=true" alt="ngocpham1994x" />
+</p>
 
 ## Hi! 👋
 
